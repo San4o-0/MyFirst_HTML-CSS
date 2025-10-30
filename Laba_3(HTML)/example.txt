@@ -1,0 +1,2 @@
+приклад відкриття текстового файлу
+Exemple opening text file
