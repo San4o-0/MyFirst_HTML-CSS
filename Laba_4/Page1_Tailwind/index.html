@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meet New People</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="flex justify-center items-center h-screen font-[Lato] bg-white">
+
+<div class="flex flex-col justify-center items-center w-full h-screen max-w-[1200px] px-[4vw] py-[2vh]">
+
+    <div class="flex flex-col items-center justify-center w-full max-h-[80vh] gap-[clamp(2vh,3vw,5vh)]">
+
+        <div class="flex justify-center items-center w-4/5 max-h-[35vh] md:max-h-[40vh]">
+            <img src="img.png" alt="Meet New People" class="w-full h-full object-contain rounded-xl">
+        </div>
+
+        <button class="bg-[#FF5F5F] text-white font-semibold rounded-md uppercase tracking-wide transition-all duration-300 cursor-pointer
+                     whitespace-nowrap my-[3vh] py-[3vh] px-[6vw] text-[clamp(2.5vh,2.5vw,3vh)]
+                     md:py-[4vh] md:px-[10vw] md:text-[clamp(2vh,2.5vw,2.5vh)] hover:bg-[#ff4444]">
+            Meet New People
+        </button>
+
+        <p class="text-[#5A5A64] text-center leading-snug max-h-[20vh] overflow-hidden
+                text-[clamp(1.5vh,2vw,1.8vh)] px-[10vw] pb-[15vw]">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries,
+            but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s
+            with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+            software like Aldus PageMaker including versions of Lorem Ipsum.
+        </p>
+    </div>
+
+    <div class="flex justify-between items-center w-full gap-[2vw] py-[1vh] md:gap-[3vw]">
+
+        <button class="flex-1 bg-[#F5F5FF] text-[#32323C] font-semibold uppercase tracking-wide
+                     py-[clamp(1vh,1.5vh,2vh)] text-[clamp(1.5vh,2vw,2vh)] rounded transition-all duration-200 hover:bg-[#e6e6ff]">
+            Skip
+        </button>
+
+        <div class="flex items-center justify-center gap-[clamp(1vw,2vw,3vw)] mt-[2vh]">
+            <span class="w-[clamp(0.8vh,1.5vw,1.2vh)] h-[clamp(0.8vh,1.5vw,1.2vh)] rounded-full bg-[#FF5F5F]"></span>
+            <span class="w-[clamp(0.8vh,1.5vw,1.2vh)] h-[clamp(0.8vh,1.5vw,1.2vh)] rounded-full bg-[#F5F5FF]"></span>
+            <span class="w-[clamp(0.8vh,1.5vw,1.2vh)] h-[clamp(0.8vh,1.5vw,1.2vh)] rounded-full bg-[#F5F5FF]"></span>
+        </div>
+
+        <button class="flex-1 bg-[#FF5F5F] text-white font-semibold uppercase tracking-wide
+                     py-[clamp(1vh,1.5vh,2vh)] text-[clamp(1.5vh,2vw,2vh)] rounded transition-all duration-200 hover:bg-[#ff4444]">
+            Next
+        </button>
+    </div>
+
+</div>
+</body>
+</html>

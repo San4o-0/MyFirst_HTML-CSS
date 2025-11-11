@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #FF5F5F;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4vh 4vw;
+    font-family: "Lato", sans-serif;
+}
+
+.container {
+    width: min(90vw, 430px);
+    background: #FF5F5F;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 2vh;
+}
+
+.circle {
+    width: clamp(120px, 35vw, 190px);
+    aspect-ratio: 1 / 1;
+    background: white;
+    border-radius: 20%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heart {
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
+}
+
+.title {
+    font-family: "Fated Cherry Bomb", cursive;
+    font-size: clamp(32px, 9vw, 50px);
+    color: white;
+    letter-spacing: 2px;
+    font-weight: bolder;
+}
+
+.tabs {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0vw;
+    margin-top: 2vh;
+}
+
+.tab {
+    flex: 1;
+    padding: 1.4vh 0;
+    border-radius: 5px;
+    border: none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: clamp(12px, 3.4vw, 16px);
+    cursor: pointer;
+    transition: 0.25s;
+}
+
+.tab:not(.active) {
+    background: white;
+    color: #FF5F5F;
+    margin-left: 2vw;
+}
+
+.tab.active {
+    background: linear-gradient(
+            90deg,
+            rgba(255, 255, 255, 0.15),
+            rgba(255, 255, 255, 0.10)
+    );
+    color: white;
+    margin-right: 2vw;
+}
+
+
+.form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5vh;
+    margin-top: 1vh;
+}
+
+.form input {
+    width: 100%;
+    padding: 1.6vh 1vw;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    font-size: clamp(12px, 3.5vw, 16px);
+    letter-spacing: 0.1em;
+}
+
+.forgot {
+    font-size: clamp(9px, 2.5vw, 12px);
+    color: white;
+    text-decoration: none;
+    text-align: right;
+}
+
+.register-btn {
+    width: 100%;
+    padding: 1.8vh 0;
+    background: white;
+    color: #FF5F5F;
+    border-radius: 5px;
+    border: none;
+    font-size: clamp(12px, 3.5vw, 16px);
+    font-weight: 700;
+}
+
+.bottom-text {
+    font-size: clamp(9px, 2.7vw, 13px);
+    color: white;
+}
+
+.bottom-text a {
+    color: white;
+    font-weight: 700;
+}
