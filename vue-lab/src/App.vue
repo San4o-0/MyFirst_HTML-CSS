@@ -13,6 +13,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/" class="inline-block px-4 border-l border-gray-300 first:border-l-0 hover:text-gray-700">Home</RouterLink>
         <RouterLink to="/about" class="inline-block px-4 border-l border-gray-300 hover:text-gray-700">About</RouterLink>
         <RouterLink to="/contact" class="inline-block px-4 border-l border-gray-300 hover:text-gray-700">Contact</RouterLink>
+        <RouterLink to="/onboarding" class="inline-block px-4 border-l border-gray-300 hover:text-gray-700">Figma_page</RouterLink>
       </nav>
     </div>
   </header>
