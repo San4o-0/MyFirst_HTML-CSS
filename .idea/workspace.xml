@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2eced4c2-f704-4619-ac80-ff8074aac7da" name="Changes" comment="Add Figma smart pages">
+      <change beforePath="$PROJECT_DIR$/vue-lab/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-lab/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-lab/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vue-lab/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-lab/src/views/OnboardingView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-lab/src/views/OnboardingView.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="33BynAJ8Jd4DQWwzpOlUN1YFtIi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.index.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.main.ts.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/san4o/WebstormProjects/untitled/vue-project1&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\san4o\\WebstormProjects\\untitled\\vue-lab\\node_modules\\prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\san4o\\WebstormProjects\\untitled\\vue-lab\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\san4o\WebstormProjects\untitled\vue-project1" />
+      <recent name="C:\Users\san4o\WebstormProjects\untitled\Laba_4\Page2_Tailwind" />
+      <recent name="C:\Users\san4o\WebstormProjects\untitled\Laba_4\Page1_Tailwind" />
+      <recent name="C:\Users\san4o\WebstormProjects\untitled\Laba_4\Page1_CSS" />
+      <recent name="C:\Users\san4o\WebstormProjects\untitled\Laba_4\Page2_CSS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\san4o\WebstormProjects\untitled\vue-lab\public" />
+      <recent name="C:\Users\san4o\WebstormProjects\untitled\vue-lab\public\assets" />
+      <recent name="C:\Users\san4o\WebstormProjects\untitled\vue-lab" />
+      <recent name="C:\Users\san4o\WebstormProjects\untitled\Laba_4\Page2_CSS" />
+      <recent name="C:\Users\san4o\WebstormProjects\untitled\Laba_3(HTML)\Page1_HTML&amp;CSS" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eced4c2-f704-4619-ac80-ff8074aac7da" name="Changes" comment="" />
+      <created>1758804924798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758804924798</updated>
+      <workItem from="1758804925515" duration="3218000" />
+      <workItem from="1761577647670" duration="670000" />
+      <workItem from="1761587812383" duration="1117000" />
+      <workItem from="1761659365177" duration="2461000" />
+      <workItem from="1761832948694" duration="5914000" />
+      <workItem from="1762444732360" duration="1357000" />
+      <workItem from="1762801911374" duration="5694000" />
+      <workItem from="1762879139694" duration="1167000" />
+      <workItem from="1763046990545" duration="5228000" />
+      <workItem from="1763408975392" duration="851000" />
+      <workItem from="1763473339602" duration="727000" />
+      <workItem from="1763476641172" duration="441000" />
+      <workItem from="1763477458261" duration="3315000" />
+      <workItem from="1763489187675" duration="5493000" />
+      <workItem from="1763545036570" duration="5998000" />
+      <workItem from="1763660312588" duration="2928000" />
+      <workItem from="1764683522856" duration="5992000" />
+    </task>
+    <task id="LOCAL-00001" summary="Firs commit">
+      <option name="closed" value="true" />
+      <created>1761838325553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761838325553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Main_commit">
+      <option name="closed" value="true" />
+      <created>1762880123413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762880123413</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit_LABA4">
+      <option name="closed" value="true" />
+      <created>1763063133735</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763063133735</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit_LABA4(add lab.txt)">
+      <option name="closed" value="true" />
+      <created>1763063624070</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763063624070</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed lab: Vue 3 + TS + Router, added ContactView, demonstrated type error">
+      <option name="closed" value="true" />
+      <created>1763548713133</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763548713133</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Completed lab: Vue 3 + TS + Router, added ContactView, demonstrated type error">
+      <option name="closed" value="true" />
+      <created>1763548885464</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763548885464</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Setup Tailwind, add UserCard styles, enable smart screen mode">
+      <option name="closed" value="true" />
+      <created>1763551019430</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763551019430</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add Figma smart pages">
+      <option name="closed" value="true" />
+      <created>1763664433962</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763664433962</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Firs commit" />
+    <MESSAGE value="Main_commit" />
+    <MESSAGE value="Commit_LABA4" />
+    <MESSAGE value="Commit_LABA4(add lab.txt)" />
+    <MESSAGE value="Completed lab: Vue 3 + TS + Router, added ContactView, demonstrated type error" />
+    <MESSAGE value="Setup Tailwind, add UserCard styles, enable smart screen mode" />
+    <MESSAGE value="Add Figma smart pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Figma smart pages" />
+  </component>
+</project>
