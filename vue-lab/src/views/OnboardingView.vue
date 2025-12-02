@@ -26,7 +26,9 @@
 import { ref, computed } from 'vue';
 import OnboardingSlide from '../components/OnboardingSlide.vue';
 import OnboardingIndicators from '../components/OnboardingIndicators.vue';
+import { useRouter } from 'vue-router';
 
+const router = useRouter();
 const slides = [
   {
     image: 'public/assets/meet_people_1.png',
@@ -57,12 +59,12 @@ function handleNext() {
   if (!isLastSlide.value) {
     currentSlideIndex.value++;
   } else {
-    alert('Перехід до головного додатку!');
+    router.push('/login');
   }
 }
 
 function handleSkip() {
-  alert('Вступний тур пропущено.');
+  router.push('/login');
 }
 </script>
 

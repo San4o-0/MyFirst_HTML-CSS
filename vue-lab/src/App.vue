@@ -14,6 +14,8 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/about" class="inline-block px-4 border-l border-gray-300 hover:text-gray-700">About</RouterLink>
         <RouterLink to="/contact" class="inline-block px-4 border-l border-gray-300 hover:text-gray-700">Contact</RouterLink>
         <RouterLink to="/onboarding" class="inline-block px-4 border-l border-gray-300 hover:text-gray-700">Figma_page</RouterLink>
+        <RouterLink to="/login" class="inline-block px-4 border-l border-gray-300 hover:text-gray-700">Login_page</RouterLink>
+
       </nav>
     </div>
   </header>
